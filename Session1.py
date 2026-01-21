@@ -1,0 +1,1 @@
+print("My name is Xander Samuels, and my pronouns are he/him. My favorite movie is Knives Out, it is a horror mystery. Knives out is the first of a series of movies, the newest of which just came out called Wake Up Dead Man. My favorite food is basically any sushi.")
